@@ -1,0 +1,13 @@
+Enter your email address below that you used when donating. 
+
+Email:  
+hubharani@gmail.com
+  Submit 
+
+API Key: d9d3893a 
+
+Example: http://img.omdbapi.com/?i=tt2294629&apikey=d9d3893a 
+
+Parameters:
+i = IMDb ID
+h (optional) = Desired height of image.
